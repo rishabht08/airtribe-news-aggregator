@@ -15,7 +15,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/rishabht08/airtribe-news-aggregator.git)
+   git clone https://github.com/rishabht08/airtribe-news-aggregator.git
    cd your-repo
    ```
 
