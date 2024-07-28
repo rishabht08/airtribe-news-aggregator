@@ -1,0 +1,42 @@
+{
+  "date": "2024-07-28T21:40:38.186Z",
+  "argv": [
+    "/usr/local/bin/node",
+    "/home/rishab/airtribe-assignments/project-2/test/server.test.js"
+  ],
+  "execArgv": [
+    "--loader=file:///home/rishab/airtribe-assignments/project-2/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/esm.mjs",
+    "--loader=file:///home/rishab/airtribe-assignments/project-2/node_modules/@tapjs/mock/dist/esm/legacy-loader.mjs",
+    "--no-warnings",
+    "--enable-source-maps",
+    "--loader=file:///home/rishab/airtribe-assignments/project-2/node_modules/@tapjs/processinfo/dist/esm/loader-legacy.mjs"
+  ],
+  "NODE_OPTIONS": "",
+  "cwd": "/home/rishab/airtribe-assignments/project-2",
+  "pid": 1464326,
+  "ppid": 1464303,
+  "parent": null,
+  "uuid": "36dbd88e-bc3d-401b-bf6d-efa7ca39b1a1",
+  "files": [
+    "/home/rishab/airtribe-assignments/project-2/test/server.test.js",
+    "/home/rishab/airtribe-assignments/project-2/src/index.js",
+    "/home/rishab/airtribe-assignments/project-2/src/routes/index.js",
+    "/home/rishab/airtribe-assignments/project-2/src/routes/aggregator.routes.js",
+    "/home/rishab/airtribe-assignments/project-2/src/handlers/auth.handler.js",
+    "/home/rishab/airtribe-assignments/project-2/src/utils/validations.js",
+    "/home/rishab/airtribe-assignments/project-2/src/utils/users-sample.js",
+    "/home/rishab/airtribe-assignments/project-2/src/utils/crypto-helpers.js",
+    "/home/rishab/airtribe-assignments/project-2/src/handlers/preference.handler.js",
+    "/home/rishab/airtribe-assignments/project-2/src/utils/newsApi.js",
+    "/home/rishab/airtribe-assignments/project-2/src/utils/cache.js",
+    "/home/rishab/airtribe-assignments/project-2/src/middlewares/index.js",
+    "/home/rishab/airtribe-assignments/project-2/src/middlewares/validations.js",
+    "/home/rishab/airtribe-assignments/project-2/src/middlewares/authenticator.js"
+  ],
+  "sources": {},
+  "root": "36dbd88e-bc3d-401b-bf6d-efa7ca39b1a1",
+  "externalID": "test/server.test.js",
+  "code": 0,
+  "signal": null,
+  "runtime": 2061.142511
+}
