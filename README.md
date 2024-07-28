@@ -85,10 +85,7 @@ Authorization: Bearer <jwt-token>
 **Response:**
 ```json
 {
-  "preferences": {
-    "categories": ["string"],
-    "sources": ["string"]
-  }
+  "preferences": ["sports" , "music"]
 }
 ```
 
@@ -104,8 +101,7 @@ Authorization: Bearer <jwt-token>
 **Request Body:**
 ```json
 {
-  "categories": ["string"],
-  "sources": ["string"]
+   "preferences": ["sports" , "music"]
 }
 ```
 
