@@ -16,7 +16,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed.
 1. Clone the repository:
    ```bash
    git clone https://github.com/rishabht08/airtribe-news-aggregator.git
-   cd your-repo
+   cd airtribe-news-aggregator
    ```
 
 2. Install the dependencies:
