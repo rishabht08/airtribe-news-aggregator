@@ -144,7 +144,4 @@ Authorization: Bearer <jwt-token>
 
 ## License
 
-This project is licensed under the MIT License.
-```
 
-Replace `your-username` and `your-repo` with your actual GitHub username and repository name. This `README.md` provides clear instructions on how to install, run, and use your Node.js Express API.
